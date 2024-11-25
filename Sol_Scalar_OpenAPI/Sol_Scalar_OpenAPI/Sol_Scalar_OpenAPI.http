@@ -1,0 +1,6 @@
+@Sol_Scalar_OpenAPI_HostAddress = http://localhost:5225
+
+GET {{Sol_Scalar_OpenAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
